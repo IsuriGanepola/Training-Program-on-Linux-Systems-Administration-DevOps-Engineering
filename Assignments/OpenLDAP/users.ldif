@@ -1,0 +1,424 @@
+dn: uid=owen,ou=permanent,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Owen
+sn: Hudson
+mail: owen.hudson@lt.com
+mobile: 94771111111
+homePhone: 940112820001
+street: London
+uid: owen
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=rachel,ou=permanent,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Rachel
+sn: Burgess
+mail: rachel.burgess@lt.com
+mobile: 94771111112
+homePhone: 940112820002
+street: London
+uid: rachel
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=mary,ou=permanent,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Mary
+sn: Mathis
+mail: mary.mathis@lt.com
+mobile: 94771111113
+homePhone: 940112820003
+street: London
+uid: mary
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=molly,ou=permanent,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Molly
+sn: Vaughan
+mail: molly.vaughan@lt.com
+mobile: 94771111114
+homePhone: 940112820004
+street: London
+uid: molly
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=piers,ou=permanent,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Piers
+sn: Duncan
+mail: piers.duncan@lt.com
+mobile: 94771111115
+homePhone: 940112820005
+street: London
+uid: piers
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=dorothy,ou=permanent,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Dorothy
+sn: Wallace
+mail: dorothy.wallace@lt.com
+mobile: 94771111116
+homePhone: 940112820006
+street: London
+uid: dorothy
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=emma,ou=permanent,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Emma
+sn: Clark
+mail: emma.clark@lt.com
+mobile: 94771111117
+homePhone: 940112820007
+street: London
+uid: emma
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=tracey,ou=permanent,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Tracey
+sn: Mills
+mail: tracey.mills@lt.com
+mobile: 94771111118
+homePhone: 940112820008
+street: London
+uid: tracey
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=dorothyw,ou=permanent,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Dorothy
+sn: Wilkins
+mail: dorothy.wilkins@lt.com
+mobile: 94771111119
+homePhone: 940112820009
+street: London
+uid: dorothyw
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=ava,ou=permanent,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Ava
+sn: Lambert
+mail: ava.lambert@lt.com
+mobile: 94771111120
+homePhone: 940112820010
+street: London
+uid: ava
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=wanda,ou=permanent,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Wanda
+sn: Kelly
+mail: wanda.kelly@lt.com
+mobile: 94771111121
+homePhone: 940112820011
+street: London
+uid: wanda
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=blake,ou=permanent,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Blake
+sn: Mills
+mail: blake.mills@lt.com
+mobile: 94771111122
+homePhone: 940112820012
+street: London
+uid: blake
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=gordon,ou=permanent,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Gordon
+sn: Simpson
+mail: gordon.simpson@lt.com
+mobile: 94771111123
+homePhone: 940112820013
+street: London
+uid: gordon
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=carl,ou=permanent,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Carl
+sn: Manning
+mail: carl.manning@lt.com
+mobile: 94771111124
+homePhone: 940112820014
+street: London
+uid: carl
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=grace,ou=permanent,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Grace
+sn: Lee
+mail: grace.lee@lt.com
+mobile: 94771111125
+homePhone: 940112820015
+street: Berlin
+uid: grace
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=andrew,ou=permanent,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Andrew
+sn: Oliver
+mail: andrew.oliver@lt.com
+mobile: 94771111126
+homePhone: 940112820016
+street: Berlin
+uid: andrew
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=gabrielle,ou=permanent,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Gabrielle
+sn: Fisher
+mail: gabrielle.fisher@lt.com
+mobile: 94771111127
+homePhone: 940112820017
+street: Berlin
+uid: gabrielle
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=sean,ou=contractor,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Sean
+sn: Parr
+mail: sean.parr@lt.com
+mobile: 94771111145
+homePhone: 940112820035
+street: Johannesburg
+uid: sean
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=warren,ou=contractor,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Warren
+sn: Ferguson
+mail: warren.ferguson@lt.com 
+mobile: 94771111146
+homePhone: 940112820036
+street: Johannesburg
+uid: warren
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+dn: uid=gabriellev,ou=contractor,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Gabrielle
+sn: Vaughan
+mail: gabrielle.vaughan@lt.com
+mobile: 94771111147
+homePhone: 940112820037
+street: Colombo
+uid: gabriellev
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+dn: uid=wendy,ou=contractor,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Wendy
+sn: Davidson
+mail: wendy.davidson@lt.com
+mobile: 94771111148
+homePhone: 940112820038
+street: Colombo
+uid: wendy
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+dn: uid=alison,ou=contractor,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Alison
+sn: Hart
+mail: alison.hart@lt.com
+mobile: 94771111149
+homePhone: 940112820039
+street: Colombo
+uid: alison
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=jane,ou=contractor,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Jane
+sn: Forsyth
+mail: jane.forsyth@lt.com
+mobile: 94771111150
+homePhone: 940112820040
+street: New York
+uid: jane
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=ella,ou=contractor,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Ella
+sn: Allan
+mail: ella.allan@lt.com
+mobile: 94771111151
+homePhone: 940112820041
+street: New York
+uid: ella
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=paul,ou=contractor,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Paul
+sn: Black
+mail: paul.black@lt.com
+mobile: 94771111152
+homePhone: 940112820042
+street: New York
+uid: paul
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=natalie,ou=contractor,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Natalie
+sn: Greene
+mail: natalie.greene@lt.com
+mobile: 94771111153
+homePhone: 940112820043
+street: Moscow
+uid: natalie
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=sophie,ou=contractor,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Sophie
+sn: King
+mail: sophie.king@lt.com
+mobile: 94771111154
+homePhone: 940112820044
+street: Moscow
+uid: sophie
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=james,ou=contractor,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: James
+sn: Scott
+mail: james.scott@lt.com
+mobile: 94771111155
+homePhone: 940112820045
+street: Moscow
+uid: james
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=janeb,ou=contractor,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Jane
+sn: Brown
+mail: jane.brown@lt.com
+mobile: 94771111156
+homePhone: 940112820046
+street: Moscow
+uid: janeb
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=kevin,ou=contractor,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Kevin
+sn: Rees
+mail: kevin.rees@lt.com
+mobile: 94771111157
+homePhone: 940112820047
+street: Moscow
+uid: kevin
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=brandon,ou=contractor,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Brandon
+sn: MacDonald
+mail: brandon.macdonald@lt.com
+mobile: 94771111158
+homePhone: 940112820048
+street: Amsterdam
+uid: brandon
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=olivia,ou=contractor,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Olivia
+sn: Gill
+mail: olivia.gill@lt.com
+mobile: 94771111159
+homePhone: 940112820049
+street: Amsterdam
+uid: olivia
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s
+
+
+dn: uid=lisa,ou=contractor,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Lisa
+sn: McLean
+mail: lisa.mclean@lt.com
+mobile: 94771111160
+homePhone: 940112820050
+street: Amsterdam
+uid: lisa
+userPassword: {SSHA}yzQbbFrcWyDBnDq/SFlGTfXYyd1hyj/s

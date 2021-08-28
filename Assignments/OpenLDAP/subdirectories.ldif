@@ -1,0 +1,24 @@
+dn: ou=staff,dc=ltacademy,dc=com
+objectclass: organizationalunit
+ou: staff
+description: Staff
+
+dn: ou=permanent,ou=staff,dc=ltacademy,dc=com
+objectclass: organizationalunit
+ou: permanent
+description: Permanent Staff
+
+dn: ou=contractor,ou=staff,dc=ltacademy,dc=com
+objectclass: organizationalunit
+ou: contractor
+description: Contractors
+
+dn: ou=books,dc=ltacademy,dc=com
+objectclass: organizationalunit
+ou: books
+description: Books
+
+dn: ou=system,dc=ltacademy,dc=com
+objectclass: organizationalunit
+ou: system
+description: Systems

@@ -1,0 +1,5 @@
+---
+
+project: <GCP PROJECT ID>
+credentials_file: <GCP PROJECT CREDENTIAL FILE PATH>
+auth_kind: serviceaccount

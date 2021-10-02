@@ -1,0 +1,18 @@
+---
+
+- name: Set up firewall
+  hosts: local
+  gather_facts: False
+  vars_files:
+    - gce_vars/auth
+    - gce_vars/zone
+  tasks:
+  - name: create a firewall rule
+     google.cloud.gcp_appengine_firewall_rule:
+       priority: 1000
+       source_range: 0.0.0.0/0
+       action: ALLOW
+       project: "{{ project }}"
+       auth_kind: "{{ auth_kind }}"
+       service_account_file: "{{ credentials_file }}"
+       state: present
